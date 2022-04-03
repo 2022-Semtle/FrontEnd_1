@@ -1,5 +1,4 @@
 # Frontend 1분반
-Web group - Frontend(1)
 ---
 
 ## Week
